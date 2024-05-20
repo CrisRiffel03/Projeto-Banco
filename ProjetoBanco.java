@@ -1,7 +1,6 @@
 package projetoBanco;
 
 import java.io.InputStream;
-import java.util.Scanner;
 
 public class ProjetoBanco {
 
